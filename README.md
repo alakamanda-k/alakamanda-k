@@ -50,13 +50,9 @@ My goal is to contribute to the advancement of sustainable and technology-driven
 </div>
 
 ## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Good_Agricultural_Practices_(GAP)-228B22?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Organic_Agriculture-006400?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Agribusiness_Management-8B4513?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Food_Safety_Management-FF8C00?&style=for-the-badge" />
-</div>
+*drone pilot for agriculture.
+*plant tissue culture techniques.
+*introduction to qgis.
 
 ## Academic Highlights
 
