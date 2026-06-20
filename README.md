@@ -1,6 +1,6 @@
 # Hello, I'm Alakamanda 
 
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alakamanda-kumarage-8a99a3192?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
 
@@ -51,8 +51,11 @@ My goal is to contribute to the advancement of sustainable and technology-driven
 
 ## Certifications
 *drone pilot for agriculture.
+
 *plant tissue culture techniques.
+
 *introduction to qgis.
+
 
 ## Academic Highlights
 
